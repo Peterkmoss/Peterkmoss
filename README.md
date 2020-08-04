@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning C/C++
 
 ### Languages and tools
-[<img align="left" alt="neovim" width="26px" src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" />]
+[<img align="left" alt="vim" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />][]neovim
 
 ## Contact me!
 - :mailbox_with_mail: Email: peter@moss.dk
