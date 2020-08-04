@@ -12,4 +12,3 @@
 
 ## Contact me!
 - :mailbox_with_mail: Email: peter@moss.dk
-Stuff
